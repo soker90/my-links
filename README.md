@@ -24,7 +24,7 @@
      - Despligues inmediatos, y ademas va rápido
      - Es algo nuevo, que solo he visto en pelis
      - Pocas posibilidades donde alojarlo a parte del oficial
-     - ¿Que tal va dockerizado si tengo que llevarmelo? ¿Me dar
+     - ¿Que tal va dockerizado si tengo que llevarmelo? ¿Me dará problemas?
      
 
 - BBDD 
