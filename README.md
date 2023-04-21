@@ -31,3 +31,13 @@
   - Algo sencillito, a poder ser alguna cosa que le tanga ganas, 
   - Mejor que no sea Mongo, por variar
   
+
+### Usage
+
+Start the project:
+
+```
+deno task start
+```
+
+This will watch the project directory and restart as necessary.
